@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/Vishal123-tech/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Vishal123-tech/Leetcode/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/Vishal123-tech/Leetcode/tree/master/1148-article-views-i) |
 ## Hash Table
 |  |
 | ------- |
